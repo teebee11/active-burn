@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283234527916",
+    "project_id": "chatapp-db229",
+    "storage_bucket": "chatapp-db229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283234527916:android:abe3904908f21c6e0f4d09",
+        "android_client_info": {
+          "package_name": "com.example.fam_meme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283234527916-r5abv6nb9t7vslen2bdbgh535s733sq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHBDOgeHjvZkHUIXZpBy2rZgWAKVfYIRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283234527916-r5abv6nb9t7vslen2bdbgh535s733sq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
