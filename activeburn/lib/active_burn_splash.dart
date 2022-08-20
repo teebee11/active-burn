@@ -41,7 +41,7 @@ class StartUp extends StatelessWidget {
               const Padding(
                 padding: EdgeInsets.all(40),
                 child: Text(
-                  "We are here to provide you fast\n services on the time and have all featured\n management system for our clients.\n Our client satisfaction is our first \npriority",
+                  "We are here to provide fast\n service in timely manner and a\n featured management system for you.\n Client satisfaction is our top \npriority",
                   textAlign: TextAlign.center,
                   style: TextStyle(fontSize: 15),
                 ),
