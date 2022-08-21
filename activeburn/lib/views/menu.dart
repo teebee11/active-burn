@@ -1,4 +1,4 @@
-/ ignore_for_file: prefer_const_constructors, deprecated_member_use
+// ignore_for_file: prefer_const_constructors, deprecated_member_use
 
 import 'package:active_burn_app/authentication/auth_methods.dart';
 import 'package:active_burn_app/authentication/sign_in.dart';
