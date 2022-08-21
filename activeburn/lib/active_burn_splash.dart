@@ -1,4 +1,4 @@
-import 'package:active_burn_app/authentication/sign_in.dart'
+import 'package:active_burn_app/authentication/sign_in.dart';
 import 'package:flutter/material.dart';
 
 class StartUp extends StatelessWidget {
