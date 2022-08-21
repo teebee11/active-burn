@@ -1,1 +1,1 @@
-//for firebase sign in sign up method
+//for firebase sign in sign up methods
