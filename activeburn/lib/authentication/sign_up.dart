@@ -1,4 +1,4 @@
-/ ignore_for_file: file_names, prefer_const_constructors
+// ignore_for_file: file_names, prefer_const_constructors
 
 import 'package:active_burn_app/authentication/sign_in.dart';
 import 'package:active_burn_app/authentication/auth_methods.dart';
