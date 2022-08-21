@@ -1,5 +1,5 @@
 {
-    "name": "active_burn_app",
+    "name": "active_burn_app"
     "short_name": "active_burn_app",
     "start_url": ".",
     "display": "standalone",
