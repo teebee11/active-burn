@@ -1,4 +1,4 @@
-import 'package:active_burn_app/active_burn_splash.dart';
+import 'package:active_burn_app/active_burn_splash.dart'
 import 'package:active_burn_app/authentication/sign_up.dart';
 import 'package:active_burn_app/views/home.dart';
 import 'package:active_burn_app/views/nav_bar.dart';
