@@ -1,4 +1,4 @@
-ackage com.example.active_burn_app
+package com.example.active_burn_app
 
 import io.flutter.embedding.android.FlutterActivity
 
