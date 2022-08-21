@@ -1,4 +1,4 @@
-import 'package:active_burn_app/views/menu.dart'
+import 'package:active_burn_app/views/menu.dart';
 import 'package:active_burn_app/views/plans.dart';
 import 'package:flutter/material.dart';
 
