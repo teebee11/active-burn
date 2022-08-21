@@ -1,4 +1,4 @@
-/sign in screen
+//sign in screen
 
 // ignore_for_file: prefer_const_constructors, sort_child_properties_last, deprecated_member_use
 
