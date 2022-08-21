@@ -1,4 +1,4 @@
-radle-wrapper.jar
+gradle-wrapper.jar
 /.gradle
 /captures/
 /gradlew
